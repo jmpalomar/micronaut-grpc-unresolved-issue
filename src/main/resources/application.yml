@@ -1,0 +1,8 @@
+micronaut:
+  application:
+    name: micronautGrpcUnresolvedIssue1
+
+grpc:
+  channels:
+    test:
+      address: localhost:8080

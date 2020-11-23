@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: micronaut.grpc.unresolved.issue1
+testFramework: spock
+sourceLanguage: java
+buildTool: gradle
+features: [ app-name, gradle, http-client, java, java-application, log4j2, netty-server, readme, shade, spock, yaml ]
